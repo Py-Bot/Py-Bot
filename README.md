@@ -1,6 +1,6 @@
-Hi, I’m @Py-Bot
-I’m interested in programming
-How to reach me j9_pixl@tutanota.com
+- Hi, I’m @Py-Bot
+- I’m interested in programming
+- How to reach me j9_pixl@tutanota.com
 
 
 <!---
