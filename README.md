@@ -1,5 +1,5 @@
 - Hi, I’m @Py-Bot
-- How to reach me Py-Bot@tuta.io
+- How to reach me Py-Bot@tutanota.de
 
 
 <!---
